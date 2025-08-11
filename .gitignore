@@ -207,9 +207,4 @@ htmlcov/
 .coverage
 coverage.xml
 
-# Useless Docs
-.tech_methods_algos.md
-.about_project.md
-.code_explanation.md
-.how_to_launch.md
 
