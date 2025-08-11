@@ -33,11 +33,6 @@ video-recommendation-engine/
 ├── data/
 │   ├── video_data.json       # Processed video metadata (generated after precomputation)
 │   └── embeddings.pkl        # Pre-computed video embeddings (generated after precomputation)
-├── docs/
-│   ├── about_project.md      # Project overview and assignment context
-│   ├── tech_methods_algos.md # Explanation of technical methods and algorithms used
-│   ├── code_explanation.md   # Line-by-line explanation of the codebase
-│   └── how_to_launch.md      # Step-by-step guide to launch the project
 ├── .env                      # Environment variables (FLIC_TOKEN, API_BASE_URL)
 ├── .gitignore               # Git ignore rules for version control
 ├── Dockerfile               # Docker build instructions for containerization
